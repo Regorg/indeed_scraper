@@ -1,7 +1,10 @@
+# UPDATE
+Take a look at updated version: https://github.com/grzesiekdev/indeed_scraper
+
 # Indeed Scraper
 This program is designed to scrap job offers from https://pl.indeed.com/. Scraped offers go to output.html, and are nicely represented in form of bootstrap table.
 
-![Indeed Web scraper](https://i.imgur.com/DVAChtO.png)
+![Indeed Web scraper](https://i.imgur.com/nX3dpEV.png)
 
 ### Built With
 * [Python](https://www.python.org/)
